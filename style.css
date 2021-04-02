@@ -12,3 +12,8 @@ h2.cosito{
 #otro_cosito{
     background: orange;
 }
+
+.nuevo_cambio{
+    font-weight: bold;
+    color:red;
+}
