@@ -1,0 +1,14 @@
+/* asociamos los estilos a las clases en el elemento */
+.cosito{
+    color:indigo;
+    font-size: 36px;
+}
+/* añadimos estilos solo a cierto elemento */
+h2.cosito{
+    font-weight: bold;
+}
+
+/* Prueba con hash */
+#otro_cosito{
+    background: blueviolet;
+}
